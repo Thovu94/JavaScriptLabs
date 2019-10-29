@@ -1,0 +1,12 @@
+// form styles
+
+.alert{
+    color:red;
+}
+input{
+    height: 30px;
+}
+.button{
+    background-color:darkorange;
+    width: 80px;
+}
